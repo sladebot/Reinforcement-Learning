@@ -4,6 +4,9 @@ from setuptools import setup
 REQUIRED_PACKAGES = [
     'torch',
     'torchvision',
+    'gym',
+    'pyvirtualdisplay',
+    'scikit-video',
     'python-box==5.3.0'
 ]
 
