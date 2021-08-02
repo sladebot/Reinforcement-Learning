@@ -7,6 +7,8 @@ REQUIRED_PACKAGES = [
     'gym',
     'pyvirtualdisplay',
     'scikit-video',
+    'matplotlib',
+    'numpy',
     'python-box==5.3.0'
 ]
 
